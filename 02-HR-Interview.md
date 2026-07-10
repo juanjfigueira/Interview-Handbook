@@ -889,6 +889,20 @@ This transforms a weakness into evidence of continuous improvement.
 > Today I focus on delivering reliable solutions early, gathering feedback and then improving incrementally.
 >
 > That mindset has helped me become much more effective while still maintaining high engineering standards.
+>
+> JUAN: En el pasado, al principio de mi carrera profesional, tenia la "mala practica" de intentar abarcar una gran cantidad de proyectos en paralelo
+>
+> y eso me volvia una persona que podia descuidar los detalles cuando sobrepasaba mis capacidades, hoy en dia ya eso no ocurre porque con el tiempo y la experiencia
+>
+> he aprendido a conocer bien mis limites y lo que soy capaz de hacer en un lapso de tiempo, sin embargo hoy en dia estoy detectando otra debilidad y es la forma
+>
+> en que "habia aprendido a aprender" justamente aprender algo nuevo y rapido para estar alineados con todos los cambios que estan ocurriendo en las tecnologias ha sobrepasado
+>
+> mis capacidades y en oportunidades me siento saturado de cosas nuevas, pero tambien he estado "aprendiendo una nueva forma de aprender" por ejemplo con
+>
+> el uso cada vez mas intensivo de herramientas como Notebook LM con la cual he podido acelerar muchisimo el tiempo que me estaba tomando aprender cosas nuevas,
+>
+> en realidad amo aprender cosas nuevas y por esto necesito seguir actualizando la forma en como aprendo
 
 ---
 
