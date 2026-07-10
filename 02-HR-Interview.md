@@ -902,7 +902,7 @@ This transforms a weakness into evidence of continuous improvement.
 >
 > el uso cada vez mas intensivo de herramientas como Notebook LM con la cual he podido acelerar muchisimo el tiempo que me estaba tomando aprender cosas nuevas,
 >
-> en realidad amo aprender cosas nuevas y por esto necesito seguir actualizando la forma en como aprendo
+> en realidad amo aprender cosas nuevas y por esto, para mi, es importante seguir actualizando la forma en como aprendo
 
 ---
 
