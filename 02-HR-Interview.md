@@ -95,7 +95,7 @@ A strong answer should show progression, specialization, and direction.
 >
 > In my most recent role at Falabella Group, I've been building centralized event-driven data pipelines using BigQuery, Pub/Sub, Cloud Run, Dataform and Python.
 >
-> After moving to Portugal, I'm looking for my next opportunity to contribute to an international engineering team while continuing to grow as a Data Engineer.
+> After moving to Portugal, I'm looking for my next opportunity to contribute to an multicultural engineering team while continuing to grow as a Data Engineer.
 
 ## Better Vocabulary
 
