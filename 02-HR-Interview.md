@@ -327,6 +327,8 @@ Think of this as your elevator pitch.
 > I enjoy solving complex engineering problems, collaborating with multidisciplinary teams and continuously improving data quality and platform reliability.
 >
 > I also adapt quickly to new technologies and environments, which has helped me contribute successfully across different industries.
+>
+> JUAN: Estoy convencido que puedo amplificar el valor de lo que esta empresa construye para sus clientes llevando a NoeXa mi forma de trabajo colaborativo para fomentar un buen ambiente de trabajo y mi experiencia en otros mercados totalmente diferentes para brindar una nueva vision de como hacer las cosas y encontrar soluciones
 
 ## Better Vocabulary
 
@@ -463,13 +465,13 @@ Not
 
 > I believe my greatest strength is my ability to design scalable data solutions that balance technical excellence with business needs.
 >
-> Throughout my career I've worked with different industries including telecommunications, banking, retail and energy, and although the technologies changed, the goal was always the same: delivering reliable data that supports business decisions.
+> Throughout my career I've worked with different industries in many countries including telecommunications, banking, retail and energy, and although the technologies changed, the goal was always the same: delivering reliable data that supports business decisions.
 >
 > Another strength is that I enjoy simplifying complex systems.
 >
 > Whenever possible I try to reduce operational complexity by automating processes, improving data quality and building reusable solutions.
 >
-> Finally, I would say collaboration is another important strength.
+> Finally, I would say collaboration is another important strength. JUAN: trayendo una nueva forma de pensar "fuera de la caja" para colaborar con la solucion que buscamos  todos en el equipo
 >
 > Data Engineering is rarely an individual effort.
 >
