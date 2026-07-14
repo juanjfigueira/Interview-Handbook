@@ -175,11 +175,12 @@ Focus on growth, alignment and your move to Portugal.
 
 ## Model Answer
 
-> I'm very grateful for everything I've learned in my current role.
+> I'm very grateful for everything I've learned in my current role, pero el proyecto en el cual he trabajado en este ultimo año fue un ṕroyecto con un beneficio asociado a desempeño para tener 1 año de trabajo remoto y este beneficio esta por terminar asi que queda abieta la oportunidad de regresar y tomar otro proyecto el proximo año o quedarme y encontrar nuevos desafios profesionales aqui en portugal o Europa en general.
 >
-> However, after relocating to Portugal, I'm looking for an opportunity that allows me to continue my career in Europe.
+> However, after moving to Portugal, I'm looking for an opportunity that allows me to continue my career in Europe.
 >
-> I'm excited about joining an international engineering team where I can contribute my experience while continuing to grow professionally.
+> I'm excited about joining an multicultural engineering team where I can contribute my experience while continuing to grow professionally.
+> 
 
 ## Better Vocabulary
 
