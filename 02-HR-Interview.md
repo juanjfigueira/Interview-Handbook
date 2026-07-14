@@ -93,7 +93,7 @@ A strong answer should show progression, specialization, and direction.
 >
 > Throughout my career I've worked across telecommunications, retail, banking, e-commerce and energy, designing scalable cloud data platforms and analytics solutions.
 >
-> In my most recent role at Falabella Group, I've been building centralized event-driven data pipelines using BigQuery, Pub/Sub, Cloud Run, Dataform and Python.
+> In my most recent role at Falabella Group, I've been building centralized event-driven data pipelines using BigQuery, Pub/Sub, Cloud Run, Dataform and Python. Before this experience i had been working with others technologies like Hadoop ecosystem, Tealium tagging platform, Athena, Teradata and others.
 >
 > After moving to Portugal, I'm looking for my next opportunity to contribute to an multicultural engineering team while continuing to grow as a Data Engineer.
 
