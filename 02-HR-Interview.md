@@ -252,7 +252,7 @@ Avoid generic compliments. Connect your experience with the company's engineerin
 
 > I'm interested in your company because of its engineering culture, the scale of its data platforms and the opportunity to collaborate with experienced professionals.
 >
-> I believe my experience building cloud-native data solutions on Google Cloud would allow me to contribute quickly while continuing to learn from the team.
+> I believe my experience building cloud-native data solutions on Google Cloud would allow me to contribute quickly while continuing to learn from a new team, por otro lado, tal como mencionaste en la conversacion que hemos tenido previo a esta reunion, estas interesado justamente en mi experiencia con herramientas como Bigquery y Dataform y yo estoy interesado en seguir perfeccionando estas destrezas.
 
 ## Better Vocabulary
 
