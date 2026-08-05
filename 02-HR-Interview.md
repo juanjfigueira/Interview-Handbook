@@ -2261,25 +2261,29 @@ When these three elements are connected, the answer sounds authentic rather than
 
 ## Model Answer
 
-> What motivates me the most is solving complex data problems that create real business value.
->
-> Throughout my career, I've realized that Data Engineering is much more than building pipelines or moving data from one system to another.
->
-> What I truly enjoy is designing reliable platforms that allow other teams to work more efficiently and make better decisions.
->
-> I also enjoy learning new technologies, but only when they help solve real problems.
->
-> Another important source of motivation for me is collaboration.
->
-> Some of the projects I'm most proud of were successful because engineers, analysts and business stakeholders worked together toward a common goal.
->
-> Finally, I'm motivated by continuous improvement.
->
-> I enjoy looking back at a system and asking myself:
->
-> "How can we make this simpler, more reliable and easier to maintain?"
->
-> That mindset has helped me grow throughout my career and is something I hope to continue doing in my next role.
+> What motivates me the most is building data solutions that solve real business problems.
+
+> Throughout my career, I've learned that the value of a data platform isn't measured by how modern the technology is or how sophisticated the architecture looks.
+
+> Its real value comes from helping people make better decisions and improving the way the business operates.
+
+> For that reason, before designing a new pipeline or proposing a new technology, I always try to understand the business need behind it.
+
+> Even the most elegant data pipeline has little value if nobody actually consumes the data it produces.
+
+> Another aspect of my work that I really enjoy is collaborative engineering.
+
+> I like working on large projects where a common goal is divided into smaller components owned by different engineers.
+
+> It's incredibly rewarding to see those individual pieces come together into a single, reliable platform that feels as though it had been built by one person.
+
+> Finally, I really enjoy solving problems that don't have an obvious solution.
+
+> Some of the most satisfying moments in my career have come from finding creative and unconventional approaches to difficult engineering challenges.
+
+> I enjoy questioning assumptions, exploring different alternatives and building solutions that are both simple and effective.
+
+> That's probably what has kept me motivated throughout my career: solving meaningful problems together with talented people and creating solutions that generate long-term value.
 
 ---
 
