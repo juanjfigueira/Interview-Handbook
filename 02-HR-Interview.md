@@ -2603,3 +2603,433 @@ As your career progresses, your motivation becomes less about writing code and m
 That evolution is exactly what interviewers want to hear.
 
 ---
+---
+
+## Q011 — How Do You Handle Pressure?
+
+**Category:** HR / Behavioral
+
+**Difficulty:** Medium
+
+**Expected Duration:** 60–90 seconds
+
+**Skills Evaluated**
+
+- Emotional Intelligence
+- Decision Making
+- Prioritization
+- Communication
+- Professional Maturity
+
+**Tags**
+
+- behavioral
+- pressure
+- stress
+- prioritization
+- incident-management
+- senior
+
+---
+
+## Why Interviewers Ask This
+
+Many candidates think this question is about stress.
+
+It isn't.
+
+Interviewers already know that every engineering role involves pressure.
+
+What they really want to understand is:
+
+- How do you react when things go wrong?
+- Can your teammates rely on you during difficult situations?
+- Do you remain calm?
+- How do you prioritize?
+- How do you communicate under pressure?
+- Can you make good decisions with incomplete information?
+
+For senior positions, handling pressure is less about working faster and more about making better decisions.
+
+---
+
+## Interview Insight
+
+Pressure usually appears in one of these situations:
+
+- A production incident.
+- A critical deadline.
+- A failed deployment.
+- Unexpected data quality issues.
+- Conflicting priorities.
+- Multiple stakeholders requesting urgent work.
+
+The interviewer is **not** expecting you to say:
+
+> "I never get stressed."
+
+That answer sounds unrealistic.
+
+Instead, they expect you to explain **how you manage pressure professionally.**
+
+---
+
+## What a Strong Answer Sounds Like
+
+A strong answer follows this structure:
+
+### First
+
+Acknowledge that pressure is part of engineering.
+
+---
+
+### Second
+
+Explain your mindset.
+
+---
+
+### Third
+
+Describe your process.
+
+---
+
+### Fourth
+
+Support it with a real example.
+
+---
+
+Pressure should never sound emotional.
+
+It should sound methodical.
+
+---
+
+## Model Answer
+
+> I think pressure is a natural part of working in Data Engineering, especially when you're supporting systems that are important for the business.
+>
+> Over the years I've learned that the worst thing you can do under pressure is react emotionally or try to solve everything at once.
+>
+> My first step is always to understand the situation, identify what is truly critical and prioritize the actions that will reduce the business impact as quickly as possible.
+>
+> I also believe communication becomes even more important during these situations.
+>
+> I try to keep stakeholders informed, align expectations and make sure everyone understands the current status and next steps.
+>
+> Once the immediate issue is under control, I like to spend time understanding the root cause and thinking about how we can prevent the same problem from happening again.
+>
+> In my experience, pressure is often an opportunity to improve both the system and the engineering process.
+
+---
+
+## Why This Answer Works
+
+Notice that the answer never says:
+
+> "I work well under pressure."
+
+Instead...
+
+It demonstrates it.
+
+The answer communicates:
+
+- calmness
+- structured thinking
+- ownership
+- communication
+- continuous improvement
+
+Those are exactly the qualities companies expect from senior engineers.
+
+---
+
+## Alternative Answer
+
+> I don't believe pressure should change the way engineers make decisions.
+>
+> If anything, it makes structured thinking even more important.
+>
+> I usually focus on three things:
+>
+> understanding the problem,
+>
+> reducing business impact,
+>
+> and communicating clearly with everyone involved.
+>
+> Once the situation is stable, I analyze what happened and look for ways to improve the system so the same issue is less likely to happen again.
+
+---
+
+## Better Vocabulary
+
+Instead of...
+
+> I stay calm.
+
+Say...
+
+> I remain focused under pressure.
+
+---
+
+Instead of...
+
+> I solve problems.
+
+Say...
+
+> I prioritize actions that minimize business impact.
+
+---
+
+Instead of...
+
+> I tell everyone what's happening.
+
+Say...
+
+> I keep stakeholders informed throughout the incident.
+
+---
+
+Useful vocabulary
+
+- incident management
+- business continuity
+- root cause analysis
+- mitigation
+- prioritization
+- stakeholder communication
+- production environment
+- operational reliability
+- postmortem
+- continuous improvement
+
+---
+
+## Useful Expressions
+
+Practice these expressions.
+
+> Pressure is part of engineering.
+
+> My first priority is...
+
+> One lesson I've learned...
+
+> I try to remain focused on...
+
+> Communication becomes even more important during...
+
+> Once the immediate issue is resolved...
+
+> Looking back...
+
+These expressions sound very natural during interviews.
+
+---
+
+## Possible Follow-up Questions
+
+Expect questions like:
+
+**Tell me about a time you worked under pressure.**
+
+---
+
+**Have you ever made a mistake because of pressure?**
+
+---
+
+**How do you prioritize when everything seems urgent?**
+
+---
+
+**How do you communicate during production incidents?**
+
+---
+
+**How do you avoid burnout?**
+
+---
+
+**How do you handle disagreements during critical situations?**
+
+These follow-up questions usually matter more than the initial answer.
+
+---
+
+## Common Mistakes
+
+### ❌ Saying you never feel pressure
+
+Everyone does.
+
+The interviewer won't believe it.
+
+---
+
+### ❌ Equating pressure with working overtime
+
+Long hours are not evidence of good pressure management.
+
+Good decisions are.
+
+---
+
+### ❌ Focusing only on yourself
+
+Pressure is usually a team effort.
+
+Talk about communication and collaboration.
+
+---
+
+### ❌ Ending the story when the incident is solved
+
+Always explain:
+
+- what changed afterwards,
+- what you learned,
+- what improvements were implemented.
+
+---
+
+## Real Interview Tips
+
+Senior engineers are often recognized not because they prevent every incident.
+
+Incidents happen.
+
+They are recognized because people trust them during difficult moments.
+
+A calm engineer who communicates clearly is usually far more valuable than a brilliant engineer who creates confusion under pressure.
+
+---
+
+## European Interview Perspective
+
+Many European engineering teams place a strong emphasis on psychological safety and collaboration.
+
+Interviewers generally appreciate candidates who:
+
+- remain calm,
+- communicate openly,
+- ask for help when appropriate,
+- focus on solving the problem rather than assigning blame.
+
+Avoid presenting yourself as the "hero" who solved everything alone.
+
+Demonstrate teamwork.
+
+That usually creates a much stronger impression.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer the question in one minute without mentioning any technology.
+
+Focus only on your decision-making process.
+
+---
+
+### Exercise 2
+
+Now answer again using a real production incident.
+
+Apply the STAR framework.
+
+---
+
+### Exercise 3
+
+After telling your story, answer this question:
+
+"What did you change afterwards so the same incident would not happen again?"
+
+---
+
+### Exercise 4
+
+Write your own "pressure checklist."
+
+What are the first five things you do when a critical incident happens?
+
+---
+
+## Self-Evaluation Checklist
+
+After practicing, ask yourself:
+
+- [ ] Did I sound calm?
+- [ ] Did I explain my decision-making process?
+- [ ] Did I mention prioritization?
+- [ ] Did I explain how I communicate?
+- [ ] Did I focus on business impact?
+- [ ] Did I describe what I learned?
+- [ ] Did I avoid sounding like a hero?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are a Senior Engineering Manager interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"How do you handle pressure?"**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Wait until I finish speaking.
+- Ask at least **six follow-up questions**.
+- Ask me for one real example from my career.
+- Challenge me if I don't explain:
+  - prioritization,
+  - communication,
+  - business impact,
+  - lessons learned.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Leadership
+  - Emotional Intelligence
+  - Professional Maturity
+- Tell me if my answer sounds generic.
+- Suggest improvements.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer the question again using your feedback.
+
+---
+
+## Coaching Notes
+
+Many candidates think handling pressure means working harder.
+
+Senior engineers know that handling pressure means **thinking more clearly**.
+
+One of the biggest changes in my own perspective on engineering has been understanding that, during critical situations, the first responsibility is not to write code.
+
+It is to reduce business impact.
+
+Sometimes the best technical decision is not the fastest implementation.
+
+Sometimes the best decision is to slow down for a few minutes, understand the problem correctly, align the team and then execute with confidence.
+
+That is what experienced engineers do.
+
