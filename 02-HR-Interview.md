@@ -2710,19 +2710,23 @@ It should sound methodical.
 
 ## Model Answer
 
-> I think pressure is a natural part of working in Data Engineering, especially when you're supporting systems that are important for the business.
->
-> Over the years I've learned that the worst thing you can do under pressure is react emotionally or try to solve everything at once.
->
-> My first step is always to understand the situation, identify what is truly critical and prioritize the actions that will reduce the business impact as quickly as possible.
->
-> I also believe communication becomes even more important during these situations.
->
-> I try to keep stakeholders informed, align expectations and make sure everyone understands the current status and next steps.
->
-> Once the immediate issue is under control, I like to spend time understanding the root cause and thinking about how we can prevent the same problem from happening again.
->
-> In my experience, pressure is often an opportunity to improve both the system and the engineering process.
+> I think pressure is a natural part of working in Data Engineering, especially when you're supporting systems that are critical to the business.
+
+Over the years, I've learned that the worst thing you can do under pressure is react emotionally or try to solve everything at once.
+
+My first step is always to understand the situation, identify what is truly critical and prioritize the actions that will reduce the business impact as quickly as possible.
+
+One principle that has helped me throughout my career is the 80/20 mindset.
+
+When I'm dealing with an urgent situation, I don't immediately try to find the perfect solution. Instead, I focus on implementing a solution that resolves roughly 80% of the problem as quickly as possible, because that remaining 20% is often not the most critical issue at that moment.
+
+Once the system is stable and the business impact has been minimized, I can step back, analyze the root cause and work on a more complete and permanent solution.
+
+I also believe communication becomes even more important during these situations.
+
+I keep stakeholders informed, align expectations and make sure everyone understands the current status, the immediate mitigation plan and the next steps.
+
+In my experience, pressure is often an opportunity not only to improve the system, but also to improve the engineering process itself.
 
 ---
 
