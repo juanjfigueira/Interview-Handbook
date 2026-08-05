@@ -3057,3 +3057,440 @@ Sometimes the best decision is to slow down for a few minutes, understand the pr
 
 That is what experienced engineers do.
 
+---
+
+## Q012 — How Do You Prioritize Your Work?
+
+**Category:** HR / Behavioral
+
+**Difficulty:** Medium
+
+**Expected Duration:** 60–90 seconds
+
+**Skills Evaluated**
+
+- Prioritization
+- Decision Making
+- Business Awareness
+- Communication
+- Planning
+
+**Tags**
+
+- prioritization
+- business-value
+- planning
+- behavioral
+- senior
+- ownership
+
+---
+
+## Why Interviewers Ask This
+
+Every engineering team has more work than time.
+
+New feature requests.
+
+Production incidents.
+
+Technical debt.
+
+Bug fixes.
+
+Infrastructure improvements.
+
+Business initiatives.
+
+The interviewer already knows that everything cannot be done at the same time.
+
+The real question is:
+
+**How do you decide what should be done first?**
+
+This question evaluates whether your priorities are driven by technology or by business value.
+
+Senior engineers understand that prioritization is not simply about deciding what is urgent.
+
+It is about deciding **what creates the greatest value at a given moment.**
+
+---
+
+## Interview Insight
+
+Many candidates answer this question by describing tools.
+
+For example:
+
+- Jira
+- Scrum
+- Kanban
+- Sprint Planning
+
+Those tools are useful.
+
+But they are not the answer.
+
+Interviewers are interested in your **decision-making process**, not your project management software.
+
+Think of prioritization as a sequence of questions.
+
+- What has the biggest business impact?
+- What represents the highest operational risk?
+- What blocks other teams?
+- What can realistically be delivered now?
+
+That thought process is much more valuable than any prioritization framework.
+
+---
+
+## What a Strong Answer Sounds Like
+
+A strong answer usually follows this order.
+
+### First
+
+Understand the business objective.
+
+---
+
+### Second
+
+Evaluate the impact.
+
+---
+
+### Third
+
+Estimate the technical effort and risks.
+
+---
+
+### Fourth
+
+Communicate priorities clearly.
+
+---
+
+Notice that technology is not the first step.
+
+Business understanding is.
+
+---
+
+## Model Answer
+
+> I believe prioritization always starts with understanding the business objective.
+>
+> Before deciding what to work on, I try to understand which task creates the greatest value for the business and which one has the highest impact if left unresolved.
+>
+> Once I understand the business context, I evaluate the technical complexity, the operational risk and whether the task is blocking other engineers or business teams.
+>
+> One principle that has guided me throughout my career is that not every technically interesting problem deserves immediate attention.
+>
+> Sometimes improving a critical production issue creates far more value than implementing a new feature.
+>
+> Other times, investing in technical debt can prevent much larger problems in the future.
+>
+> Prioritization is always about balancing short-term business needs with long-term engineering quality.
+>
+> Finally, I believe priorities should never exist only in my head.
+>
+> I like communicating openly with stakeholders so everyone understands why certain decisions are made and what trade-offs we're accepting.
+
+---
+
+## Why This Answer Works
+
+Notice that the answer never says:
+
+> "I prioritize urgent tasks."
+
+Instead, it explains **how urgency is evaluated.**
+
+The answer demonstrates:
+
+- business awareness
+- structured thinking
+- communication
+- engineering maturity
+
+These are exactly the characteristics expected from senior engineers.
+
+---
+
+## Alternative Answer
+
+> My prioritization process is based on three questions.
+>
+> First, what creates the greatest business value?
+>
+> Second, what reduces operational risk?
+>
+> Third, what enables other teams to continue moving forward?
+>
+> Once those questions are answered, prioritization usually becomes much clearer.
+
+Simple.
+
+Clear.
+
+Very senior.
+
+---
+
+## Better Vocabulary
+
+Instead of...
+
+> I decide what is more important.
+
+Say...
+
+> I evaluate business impact before making technical decisions.
+
+---
+
+Instead of...
+
+> I organize my tasks.
+
+Say...
+
+> I balance business priorities with long-term engineering sustainability.
+
+---
+
+Instead of...
+
+> I choose what to do first.
+
+Say...
+
+> I prioritize initiatives based on value, risk and dependencies.
+
+---
+
+Useful vocabulary
+
+- business priorities
+- technical debt
+- operational risk
+- stakeholder alignment
+- dependencies
+- engineering trade-offs
+- business value
+- scalability
+- maintainability
+- long-term sustainability
+
+---
+
+## Useful Expressions
+
+Practice these expressions.
+
+> My first priority is to understand...
+
+> I usually evaluate...
+
+> One principle I follow is...
+
+> I try to balance...
+
+> From my perspective...
+
+> The way I approach prioritization is...
+
+> Not every urgent task is important.
+
+> Prioritization is really about...
+
+---
+
+## Possible Follow-up Questions
+
+Prepare for questions like:
+
+**What happens when two stakeholders have conflicting priorities?**
+
+---
+
+**Have you ever disagreed with a manager about priorities?**
+
+---
+
+**How do you decide between fixing technical debt and delivering new features?**
+
+---
+
+**Can you give me a real example?**
+
+---
+
+**How do you prioritize during a production incident?**
+
+---
+
+**How do you communicate changing priorities to the team?**
+
+These questions often determine whether your answer reflects real experience.
+
+---
+
+## Common Mistakes
+
+### ❌ Confusing urgency with importance
+
+The most urgent task is not always the most valuable.
+
+---
+
+### ❌ Talking only about Agile ceremonies
+
+Scrum helps organize work.
+
+It does not decide what is most valuable.
+
+You do.
+
+---
+
+### ❌ Ignoring communication
+
+Prioritization without communication creates confusion.
+
+---
+
+### ❌ Focusing only on technology
+
+Senior engineers understand that technical decisions exist to support business goals.
+
+Always connect engineering with business value.
+
+---
+
+## Real Interview Tips
+
+One thing I've learned from experienced engineering leaders is that prioritization is essentially the art of saying **"not now."**
+
+Every decision has an opportunity cost.
+
+Choosing one task means delaying another.
+
+The best engineers make those trade-offs consciously and communicate them transparently.
+
+---
+
+## European Interview Perspective
+
+In many European engineering organizations, prioritization is viewed as a collaborative process rather than an individual decision.
+
+Interviewers appreciate candidates who demonstrate that they:
+
+- seek alignment with stakeholders,
+- communicate trade-offs clearly,
+- are comfortable challenging priorities respectfully,
+- and understand both technical and business perspectives.
+
+Showing that you can explain **why** something should wait is often more valuable than simply saying you work quickly.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer this question in one minute without mentioning Jira, Scrum or Kanban.
+
+---
+
+### Exercise 2
+
+Think about your current prioritization process.
+
+List the first five questions you ask yourself before starting a task.
+
+---
+
+### Exercise 3
+
+Describe one real situation where you had to choose between:
+
+- fixing a production issue,
+- improving technical debt,
+- delivering a new feature.
+
+Explain why you made your decision.
+
+---
+
+### Exercise 4
+
+After answering, ask yourself:
+
+"Did I explain my decision-making process or did I simply describe my workload?"
+
+---
+
+## Self-Evaluation Checklist
+
+- [ ] Did I explain how I make decisions?
+- [ ] Did I prioritize business value?
+- [ ] Did I mention operational risk?
+- [ ] Did I explain trade-offs?
+- [ ] Did I talk about communication?
+- [ ] Did I sound like a Senior Data Engineer?
+- [ ] Could I support my answer with a real example?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are a Senior Engineering Director interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"How do you prioritize your work?"**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Wait until I finish speaking.
+- Ask at least **six follow-up questions**.
+- Ask me to describe one real project where priorities changed unexpectedly.
+- Challenge me if I focus only on Agile methodologies instead of explaining my decision-making process.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Business awareness
+  - Decision-making
+  - Communication
+- Tell me if my answer sounds theoretical.
+- Suggest a more natural version.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer the question again using your feedback.
+
+---
+
+## Coaching Notes
+
+One of the biggest transitions from a mid-level engineer to a senior engineer is understanding that prioritization is not about managing tasks.
+
+It is about managing **trade-offs**.
+
+Every engineering decision involves balancing business value, technical quality, operational risk and delivery timelines.
+
+Throughout my career, I've learned that the best prioritization decisions are rarely the ones that satisfy everyone.
+
+They are the ones that maximize value while making the trade-offs explicit and ensuring everyone understands the reasoning behind them.
+
+That is what I believe good engineering leadership looks like.
+
+---
+
