@@ -2728,6 +2728,26 @@ I keep stakeholders informed, align expectations and make sure everyone understa
 
 In my experience, pressure is often an opportunity not only to improve the system, but also to improve the engineering process itself.
 
+One experience that perfectly illustrates how I handle pressure happened while I was working at Falabella.
+
+A few days before one of our largest sales events of the year, where the company typically generates an entire month's worth of sales in just three days, one of our key business metrics suddenly dropped to zero.
+
+The metric, called Click-to-Rate, was used to measure how effectively customers navigated through our website and ultimately converted into buyers. It was a critical KPI because the business relied on it to monitor customer behavior and adjust sales strategies in real time during the event.
+
+We quickly investigated the issue and realized that implementing the perfect technical solution before the campaign started simply wasn't realistic.
+
+During the investigation, we discovered that adding a relatively simple CASE statement to one of our analytical queries would immediately restore the metric to about 95% of its historical values.
+
+I decided to implement that solution right away because it restored the business's visibility into customer behavior just before the event began.
+
+At the same time, I clearly communicated to the stakeholders that this was a temporary mitigation, not the final solution. Recovering the remaining 5% of the metric would require additional investigation, collaboration with other engineers and more time than we had available before the campaign.
+
+Thanks to that decision, the Click-to-Rate metric was available when the Hot Sale campaign started, allowing the business teams to monitor performance and make informed decisions throughout one of the most important commercial events of the year.
+
+After the event, we continued investigating the root cause and implemented the permanent solution.
+
+That experience reinforced a principle that still guides the way I work today: under pressure, I don't try to deliver the perfect solution first. My priority is to restore business value as quickly as possible, stabilize the situation and then work on the long-term solution.
+
 ---
 
 ## Why This Answer Works
