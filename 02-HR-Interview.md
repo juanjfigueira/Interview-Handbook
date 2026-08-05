@@ -2142,3 +2142,460 @@ You are ready to continue when:
 - You sound natural.
 - You can handle follow-up questions.
 - You no longer translate mentally before speaking.
+
+---
+
+## Q010 — What Motivates You?
+
+**Category:** HR / Behavioral
+
+**Difficulty:** Medium
+
+**Expected Duration:** 60–90 seconds
+
+**Skills Evaluated**
+
+- Self-awareness
+- Motivation
+- Professional Values
+- Long-term Career Vision
+- Communication
+
+**Tags**
+
+- hr
+- motivation
+- career
+- behavioral
+- senior
+- growth
+
+---
+
+## Why Interviewers Ask This
+
+At first glance, this seems like a simple question.
+
+It isn't.
+
+Interviewers are not trying to learn what you enjoy doing.
+
+They are trying to understand **what keeps you engaged over the long term**.
+
+Hiring and onboarding a Senior Data Engineer is a significant investment.
+
+Companies want to know if your motivation aligns with the challenges of the role.
+
+They are asking themselves questions such as:
+
+- What kind of work gives this person energy?
+- Will they stay engaged after the excitement of a new job fades?
+- Are they driven only by salary?
+- Are they motivated by learning?
+- Do they enjoy solving difficult problems?
+- Do they care about business outcomes?
+
+Your answer should demonstrate that your motivation is sustainable and aligned with the company's goals.
+
+---
+
+## Interview Insight
+
+One of the biggest mistakes candidates make is giving answers that are too generic.
+
+For example:
+
+> "I'm motivated by challenges."
+
+or
+
+> "I like learning new technologies."
+
+These statements are true for almost every engineer.
+
+They do not differentiate you.
+
+Instead, explain **why** those things motivate you.
+
+The interviewer wants to understand your internal drivers.
+
+As a Senior Data Engineer, your motivation should naturally evolve beyond writing code.
+
+You should communicate that you enjoy:
+
+- Solving meaningful business problems.
+- Designing scalable systems.
+- Improving engineering practices.
+- Helping other engineers succeed.
+- Building platforms that remain valuable for years.
+
+Notice the difference.
+
+The focus shifts from technology itself to the value technology creates.
+
+---
+
+## What a Strong Answer Sounds Like
+
+An excellent answer usually combines three different motivations.
+
+### Professional Motivation
+
+What kind of work excites you?
+
+---
+
+### Technical Motivation
+
+Which engineering challenges do you enjoy solving?
+
+---
+
+### Personal Motivation
+
+Why is that work meaningful to you?
+
+When these three elements are connected, the answer sounds authentic rather than rehearsed.
+
+---
+
+## Model Answer
+
+> What motivates me the most is solving complex data problems that create real business value.
+>
+> Throughout my career, I've realized that Data Engineering is much more than building pipelines or moving data from one system to another.
+>
+> What I truly enjoy is designing reliable platforms that allow other teams to work more efficiently and make better decisions.
+>
+> I also enjoy learning new technologies, but only when they help solve real problems.
+>
+> Another important source of motivation for me is collaboration.
+>
+> Some of the projects I'm most proud of were successful because engineers, analysts and business stakeholders worked together toward a common goal.
+>
+> Finally, I'm motivated by continuous improvement.
+>
+> I enjoy looking back at a system and asking myself:
+>
+> "How can we make this simpler, more reliable and easier to maintain?"
+>
+> That mindset has helped me grow throughout my career and is something I hope to continue doing in my next role.
+
+---
+
+## Why This Answer Works
+
+Notice that the answer never mentions money.
+
+That doesn't mean salary isn't important.
+
+It simply isn't presented as the primary motivation.
+
+Instead, the answer communicates professional maturity.
+
+It explains:
+
+- curiosity
+- engineering mindset
+- collaboration
+- business orientation
+- continuous improvement
+
+These characteristics are commonly associated with senior engineers.
+
+---
+
+## Alternative Answer
+
+> I'm motivated by opportunities where technology has a measurable impact on the business.
+>
+> I enjoy working on projects that improve data quality, automate repetitive processes and help people make better decisions.
+>
+> I also find it very rewarding to work with experienced engineering teams because I believe the best way to grow is by learning from talented colleagues while sharing my own experience.
+
+This version works particularly well for companies with strong engineering cultures.
+
+---
+
+## Better Vocabulary
+
+Instead of...
+
+> I like technology.
+
+Say...
+
+> I'm passionate about building reliable engineering solutions.
+
+---
+
+Instead of...
+
+> I like learning.
+
+Say...
+
+> Continuous learning is an important part of my professional growth.
+
+---
+
+Instead of...
+
+> I enjoy difficult problems.
+
+Say...
+
+> I enjoy solving technically challenging problems with measurable business impact.
+
+---
+
+Useful vocabulary
+
+- continuous improvement
+- engineering culture
+- technical excellence
+- business value
+- innovation
+- collaboration
+- scalability
+- maintainability
+- ownership
+- curiosity
+
+---
+
+## Useful Expressions
+
+Practice these expressions until they become automatic.
+
+> What motivates me the most is...
+
+> I've always enjoyed...
+
+> One aspect of my work that I particularly appreciate is...
+
+> Throughout my career...
+
+> I've realized that...
+
+> One of the reasons I enjoy Data Engineering is...
+
+> I find it especially rewarding when...
+
+These expressions are commonly used by native speakers during interviews.
+
+---
+
+## Possible Follow-up Questions
+
+Prepare for questions such as:
+
+**What type of project motivates you the most?**
+
+---
+
+**What kind of work would demotivate you?**
+
+---
+
+**How do you stay motivated during long projects?**
+
+---
+
+**Has your motivation changed throughout your career?**
+
+---
+
+**Besides technology, what motivates you professionally?**
+
+---
+
+**How do you continue learning?**
+
+Interviewers often ask these follow-up questions to verify whether your motivation is genuine.
+
+---
+
+## Common Mistakes
+
+### ❌ Focusing only on salary
+
+Compensation is important.
+
+However, presenting it as your primary motivation creates the impression that you may leave as soon as another company offers more.
+
+---
+
+### ❌ Giving generic answers
+
+Avoid answers like:
+
+> "I like challenges."
+
+Explain **why**.
+
+---
+
+### ❌ Talking only about technology
+
+Senior engineers understand that technology is a means to achieve business outcomes.
+
+Always connect technology with impact.
+
+---
+
+### ❌ Sounding unrealistic
+
+Avoid saying things like:
+
+> "I love working all the time."
+
+Natural answers are much more credible.
+
+---
+
+## Real Interview Tips
+
+One pattern I've observed in interviews with senior engineers is that they rarely describe motivation in terms of excitement.
+
+Instead, they describe it in terms of purpose.
+
+For example:
+
+> "I enjoy helping teams become more productive."
+
+or
+
+> "I enjoy building systems that simplify other people's work."
+
+These answers communicate maturity.
+
+---
+
+## European Interview Perspective
+
+Many European companies place a strong emphasis on **intrinsic motivation**.
+
+Interviewers are generally interested in understanding:
+
+- whether you enjoy continuous learning,
+- whether you value collaboration,
+- whether you can contribute to a healthy engineering culture.
+
+While ambition is appreciated, excessive self-promotion is often less effective than demonstrating curiosity, professionalism and long-term commitment.
+
+A calm, thoughtful answer usually creates a better impression than an overly enthusiastic one.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer the question in exactly one minute.
+
+Avoid mentioning any specific technology.
+
+Focus only on motivation.
+
+---
+
+### Exercise 2
+
+Now answer again.
+
+This time connect your motivation with one real project from your career.
+
+---
+
+### Exercise 3
+
+Complete the following sentence five different ways.
+
+> What motivates me the most is...
+
+Do not repeat the same idea.
+
+---
+
+### Exercise 4
+
+Ask yourself:
+
+"If I removed every mention of technology from my answer, would I still sound like a passionate engineer?"
+
+If the answer is no...
+
+Rewrite it.
+
+---
+
+## Self-Evaluation Checklist
+
+After practicing, ask yourself:
+
+- [ ] Did I explain **why** I'm motivated?
+- [ ] Did I connect motivation with business value?
+- [ ] Did I sound authentic?
+- [ ] Did I avoid generic answers?
+- [ ] Did I mention collaboration?
+- [ ] Did I sound like a Senior Data Engineer?
+- [ ] Could I answer follow-up questions naturally?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are an experienced Engineering Director interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"What motivates you?"**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Wait until I finish speaking.
+- Ask at least **six follow-up questions**.
+- Challenge me if my answer sounds generic.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Authenticity
+  - Professional maturity
+  - Business orientation
+- Tell me if my answer sounds memorized.
+- Suggest a more natural version.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer again using your feedback.
+
+---
+
+## Coaching Notes
+
+One of the biggest indicators of seniority is **what motivates you**.
+
+Junior engineers are often motivated by learning new technologies.
+
+Mid-level engineers are motivated by solving increasingly complex technical problems.
+
+Senior engineers are motivated by something broader.
+
+They enjoy building systems that enable businesses to grow.
+
+They enjoy mentoring.
+
+They enjoy improving engineering practices.
+
+They enjoy creating platforms that other engineers can rely on.
+
+As your career progresses, your motivation becomes less about writing code and more about creating long-term value.
+
+That evolution is exactly what interviewers want to hear.
+
+---
