@@ -3493,4 +3493,509 @@ They are the ones that maximize value while making the trade-offs explicit and e
 That is what I believe good engineering leadership looks like.
 
 ---
+---
 
+## Q013 — Tell Me About a Time You Disagreed with a Colleague (or Stakeholder)
+
+**Category:** HR / Behavioral
+
+**Difficulty:** Medium–High
+
+**Expected Duration:** 90–120 seconds
+
+**Skills Evaluated**
+
+- Communication
+- Conflict Resolution
+- Stakeholder Management
+- Business Awareness
+- Leadership
+- Decision Making
+
+**Tags**
+
+- disagreement
+- stakeholder-management
+- communication
+- behavioral
+- business-value
+- senior
+
+---
+
+## Why Interviewers Ask This
+
+This question is not really about disagreement.
+
+Every experienced engineer has disagreed with colleagues, managers or stakeholders at some point in their career.
+
+What interviewers want to understand is **how** you handle those situations.
+
+Do you become defensive?
+
+Do you try to prove that you're right?
+
+Or do you work collaboratively to reach the best possible decision?
+
+For senior engineering positions, disagreements are expected.
+
+The ability to navigate them professionally is often more important than always being technically correct.
+
+Interviewers are looking for engineers who can challenge ideas respectfully, support their opinions with evidence and remain open to changing their own perspective when new information becomes available.
+
+---
+
+## Interview Insight
+
+Many candidates make one of two mistakes.
+
+The first is saying they never disagree with anyone.
+
+That answer is unrealistic.
+
+Healthy disagreement is a natural part of engineering.
+
+The second mistake is describing a conflict where the goal becomes proving that they were right.
+
+Strong engineers don't focus on winning arguments.
+
+They focus on finding the best solution.
+
+One of the most valuable skills in Data Engineering is the ability to separate opinions from evidence.
+
+When data contradicts intuition, experienced engineers investigate further instead of defending assumptions.
+
+That's exactly what interviewers hope to hear.
+
+---
+
+## What a Strong Answer Sounds Like
+
+A strong answer usually follows this structure.
+
+### First
+
+Describe the business context.
+
+---
+
+### Second
+
+Explain why the disagreement occurred.
+
+---
+
+### Third
+
+Describe how you approached the situation professionally.
+
+---
+
+### Fourth
+
+Explain how additional evidence helped everyone reach the same conclusion.
+
+---
+
+### Finally
+
+Describe what you learned from the experience.
+
+The emphasis should always be on collaboration.
+
+Not confrontation.
+
+---
+
+## Model Answer
+
+> One experience that stands out happened while I was working at Telefónica Movistar in Venezuela during one of my first Big Data projects.
+>
+> Our objective was to identify what we called **Golden Clusters**—the geographical areas that would generate the highest business value for deploying the company's new 5G network.
+>
+> At that time, the company only had around 20% of the infrastructure required for the rollout, so selecting the right locations was a critical business decision.
+>
+> After completing our analysis, we presented the results to the project's main stakeholder, the CEO.
+>
+> Some of the recommended areas were economically disadvantaged neighborhoods, which was completely different from what he expected.
+>
+> Naturally, he questioned whether our analysis was correct.
+>
+> Instead of defending our work or turning it into a debate, the team and I decided to gather more evidence.
+>
+> We partnered with the commercial team to analyze customer behavior and business activity within those areas.
+>
+> The additional analysis revealed something that wasn't obvious at first.
+>
+> Although some of those neighborhoods had lower average incomes, they also contained large commercial centers where thousands of people gathered every day.
+>
+> In addition, Wi-Fi coverage in those areas was very limited, so mobile pay-as-you-go data usage was significantly higher than in many wealthier neighborhoods.
+>
+> That additional evidence confirmed that the Golden Clusters identified by our model were actually the right locations for the initial deployment.
+>
+> What I learned from that experience is that disagreements are often valuable.
+>
+> Rather than trying to convince people that you're right, it's much more effective to let the data guide the conversation.
+>
+> In the end, the disagreement wasn't about who was right.
+>
+> It became an opportunity to validate our analysis, strengthen everyone's confidence in the results and help the business see the problem from a different perspective.
+
+---
+
+## Why This Answer Works
+
+Notice what the answer does **not** say.
+
+It never says:
+
+> "The CEO was wrong."
+
+Nor does it say:
+
+> "I convinced him."
+
+Instead, the answer demonstrates professional maturity.
+
+The disagreement is treated as an opportunity to gather more evidence rather than to defend personal opinions.
+
+This communicates several characteristics expected from a Senior Data Engineer:
+
+- emotional intelligence,
+- business awareness,
+- stakeholder management,
+- confidence without arrogance,
+- data-driven decision making.
+
+Perhaps the strongest message is that the solution was reached collaboratively.
+
+The goal was not to win the discussion.
+
+The goal was to improve confidence in the data.
+
+---
+
+## Alternative Answer
+
+> Throughout my career, I've learned that disagreements usually happen because different people have different perspectives, not because someone is necessarily wrong.
+>
+> Whenever I disagree with a stakeholder or another engineer, I try to understand the assumptions behind their point of view before defending mine.
+>
+> In my experience, the most productive discussions happen when everyone focuses on evidence rather than opinions.
+>
+> I've found that once the conversation becomes data-driven, reaching an agreement becomes much easier.
+
+---
+## Better Vocabulary
+
+Instead of...
+
+> I had an argument with my manager.
+
+Say...
+
+> We had different perspectives on the results.
+
+---
+
+Instead of...
+
+> I tried to prove I was right.
+
+Say...
+
+> I focused on gathering additional evidence.
+
+---
+
+Instead of...
+
+> We disagreed.
+
+Say...
+
+> We challenged each other's assumptions.
+
+---
+
+Instead of...
+
+> I convinced the stakeholder.
+
+Say...
+
+> The additional analysis helped us reach a shared conclusion.
+
+---
+
+Useful vocabulary
+
+- stakeholder alignment
+- evidence-based decision making
+- business validation
+- assumptions
+- analytical findings
+- collaborative problem solving
+- commercial insights
+- data-driven decisions
+- cross-functional collaboration
+- objective evidence
+
+---
+
+## Useful Expressions
+
+Practice these expressions until they become natural.
+
+> From my perspective...
+
+> I completely understood their concerns because...
+
+> Rather than defending our initial conclusion...
+
+> We decided to collect additional evidence.
+
+> Our objective wasn't to prove anyone wrong.
+
+> The data revealed something we hadn't initially considered.
+
+> That experience reinforced an important lesson for me.
+
+> I've learned that good discussions are usually driven by evidence rather than opinions.
+
+These are expressions frequently used by senior engineers and consultants.
+
+---
+
+## Possible Follow-up Questions
+
+Prepare for questions such as:
+
+**What would you have done if the additional analysis had proven your original conclusion was wrong?**
+
+---
+
+**How did the CEO react after reviewing the new evidence?**
+
+---
+
+**Did this disagreement affect your professional relationship?**
+
+---
+
+**Have you ever changed your opinion after seeing new data?**
+
+---
+
+**How do you challenge a senior stakeholder respectfully?**
+
+---
+
+**How do you deal with people who make decisions based only on intuition?**
+
+---
+
+**Can you describe another situation where data changed the direction of a project?**
+
+These follow-up questions are designed to evaluate your humility, adaptability and communication skills.
+
+---
+
+## Common Mistakes
+
+### ❌ Turning the disagreement into a personal conflict
+
+Never describe the situation as:
+
+> "The CEO didn't understand."
+
+Instead, explain that different people approached the problem from different perspectives.
+
+---
+
+### ❌ Making yourself the hero
+
+Avoid suggesting that you alone solved the disagreement.
+
+Highlight collaboration.
+
+In this case, involving the Commercial Team was one of the smartest decisions because it added business context to the technical analysis.
+
+---
+
+### ❌ Treating intuition as something negative
+
+Business intuition is valuable.
+
+Data exists to validate or challenge assumptions—not to dismiss people's experience.
+
+Respect both perspectives.
+
+---
+
+### ❌ Ending the story with "we were right"
+
+That isn't the lesson.
+
+The real lesson is that additional evidence increased everyone's confidence in the final decision.
+
+---
+
+## Real Interview Tips
+
+One of the biggest differences between junior and senior engineers is how they handle disagreements.
+
+Junior engineers often argue about solutions.
+
+Senior engineers discuss assumptions.
+
+The objective is never to protect an idea.
+
+The objective is to discover which idea creates the greatest value for the business.
+
+Whenever possible, replace opinions with measurable evidence.
+
+That immediately changes the tone of the conversation.
+
+---
+
+## European Interview Perspective
+
+Many European engineering organizations encourage healthy technical discussions.
+
+Disagreeing with a manager or stakeholder is not considered a problem if it is done respectfully and professionally.
+
+Interviewers generally appreciate candidates who:
+
+- remain respectful,
+- actively listen,
+- acknowledge other perspectives,
+- support their recommendations with evidence,
+- and are willing to change their own opinion when new information becomes available.
+
+Humility is often considered a sign of maturity.
+
+Showing that you are open to learning usually creates a stronger impression than trying to demonstrate that you were always right.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer this question in approximately 90 seconds.
+
+Do not mention technologies.
+
+Focus only on:
+
+- the disagreement,
+- your communication,
+- the outcome.
+
+---
+
+### Exercise 2
+
+Now answer the same question again.
+
+This time emphasize why involving the Commercial Team was the turning point.
+
+---
+
+### Exercise 3
+
+Imagine the interviewer asks:
+
+> "What if the CEO had still disagreed after the additional analysis?"
+
+Prepare a professional answer.
+
+---
+
+### Exercise 4
+
+Complete the following sentence five different ways.
+
+> Rather than defending my opinion, I...
+
+Try to avoid repeating the same vocabulary.
+
+---
+
+## Self-Evaluation Checklist
+
+After practicing, ask yourself:
+
+- [ ] Did I describe the disagreement objectively?
+- [ ] Did I avoid blaming anyone?
+- [ ] Did I explain how we gathered additional evidence?
+- [ ] Did I demonstrate collaboration?
+- [ ] Did I show business awareness?
+- [ ] Did I explain what I learned?
+- [ ] Did I sound like a Senior Data Engineer rather than someone trying to win an argument?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are the CEO of a large technology company interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"Tell me about a time you disagreed with a colleague or stakeholder."**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Stay in character as a skeptical executive.
+- Challenge my conclusions respectfully.
+- Ask me why I believed the data more than executive intuition.
+- Ask how I ensured that the analysis was trustworthy.
+- Ask at least **six follow-up questions**.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Stakeholder Management
+  - Communication
+  - Business Awareness
+  - Professional Maturity
+- Tell me whether my explanation sounds credible or overly technical.
+- Suggest a more natural way to explain the business impact.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer the question again using your feedback.
+
+---
+
+## Coaching Notes
+
+One of the most valuable lessons I've learned throughout my career is that data doesn't replace experience—it complements it.
+
+Business leaders often have years of intuition built from operating the business.
+
+Engineers contribute a different perspective by analyzing information objectively.
+
+The best decisions happen when both perspectives work together.
+
+Looking back at the Telefónica project, I don't consider the biggest achievement to be that our model was correct.
+
+The real achievement was building enough confidence in the data for everyone to move forward with the same decision.
+
+That experience fundamentally changed the way I approach technical disagreements.
+
+Today, whenever I face different opinions, I don't ask myself:
+
+*"How can I prove that I'm right?"*
+
+Instead, I ask:
+
+**"What additional evidence would help everyone make a better decision?"**
+
+That question has helped me resolve disagreements more effectively throughout my career.
+
+---
