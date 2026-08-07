@@ -3999,3 +3999,437 @@ Instead, I ask:
 That question has helped me resolve disagreements more effectively throughout my career.
 
 ---
+
+---
+
+## Q014 — Where Do You See Yourself in Five Years?
+
+**Category:** HR / Career Vision
+
+**Difficulty:** Medium
+
+**Expected Duration:** 60–90 seconds
+
+**Skills Evaluated**
+
+- Career Planning
+- Self-awareness
+- Ambition
+- Long-term Commitment
+- Professional Maturity
+
+**Tags**
+
+- career
+- goals
+- growth
+- leadership
+- behavioral
+- senior
+
+---
+
+## Why Interviewers Ask This
+
+This question is often misunderstood.
+
+Interviewers are **not** expecting you to predict your future.
+
+They know that careers evolve, technologies change and new opportunities appear.
+
+Instead, they want to understand whether your professional ambitions are compatible with the position they are hiring for.
+
+They are asking questions such as:
+
+- Does this candidate have a long-term vision?
+- Are they genuinely interested in growing within the company?
+- Are their expectations realistic?
+- Will this role help them achieve their goals?
+- Are they motivated by continuous learning?
+
+A strong answer should demonstrate ambition without suggesting that you are already looking beyond the position you're applying for.
+
+---
+
+## Interview Insight
+
+One of the most common mistakes candidates make is answering with a job title.
+
+For example:
+
+> "I want to be a CTO."
+
+or
+
+> "I want to be a Director."
+
+Those answers focus on hierarchy instead of professional growth.
+
+Another common mistake is saying:
+
+> "I don't know."
+
+That may sound honest, but it also suggests a lack of direction.
+
+A better approach is to describe **the type of professional you want to become**, rather than the title you hope to have.
+
+Senior engineers usually think in terms of:
+
+- increasing impact,
+- solving more complex problems,
+- mentoring others,
+- improving engineering practices,
+- contributing to business strategy.
+
+---
+
+## What a Strong Answer Sounds Like
+
+A strong answer usually includes four elements.
+
+### First
+
+Describe where you want to grow technically.
+
+---
+
+### Second
+
+Explain how you want to contribute to the business.
+
+---
+
+### Third
+
+Mention collaboration or leadership.
+
+---
+
+### Finally
+
+Connect your goals with the opportunity you're applying for.
+
+The interviewer should feel that this position naturally fits into your long-term journey.
+
+---
+
+## Model Answer
+
+> Over the next five years, I'd like to continue growing as a Data Engineer by working on increasingly complex data platforms that create meaningful value for society.
+
+While I enjoy learning new technologies, my long-term goal goes beyond mastering another tool or framework.
+
+I'm particularly interested in applying Data Engineering to the healthcare domain, especially in areas related to preventive medicine, human cell research and data-driven approaches that can help researchers better understand complex diseases such as cancer.
+
+I find it incredibly motivating to think that well-designed data platforms can support scientific research, accelerate discoveries and ultimately contribute to improving people's lives.
+
+If, at some point, I have the opportunity to participate in healthcare or life sciences projects, I would consider that a significant milestone in my career.
+
+At the same time, I'd love to help create new opportunities for the company by contributing to initiatives in those industries if the business decides to expand into that space.
+
+Ultimately, I'd like to be recognized as an engineer who combines strong technical expertise with the ability to use data to solve problems that genuinely improve people's lives.
+
+I believe this position is an important step in that journey because it will allow me to continue developing the technical, collaborative and leadership skills I'll need to make that kind of contribution in the future.
+---
+
+## Why This Answer Works
+
+This answer avoids making unrealistic promises.
+
+Instead of focusing on promotions or job titles, it focuses on professional growth.
+
+It communicates:
+
+- ambition,
+- humility,
+- technical curiosity,
+- business awareness,
+- leadership potential.
+
+It also reassures the interviewer that your goals align with the company's objectives.
+
+---
+
+## Alternative Answer
+
+> I don't have a specific job title in mind.
+>
+> What matters most to me is continuing to work on challenging projects, learning from experienced engineers and contributing to systems that make a real difference for the business.
+>
+> If, over time, that also allows me to mentor others and influence technical decisions, I'd consider that a successful next step in my career.
+
+---
+
+## Better Vocabulary
+
+Instead of...
+
+> I want a better position.
+
+Say...
+
+> I'd like to take on greater technical responsibilities.
+
+---
+
+Instead of...
+
+> I want to grow.
+
+Say...
+
+> I'm looking to broaden my impact as an engineer.
+
+---
+
+Instead of...
+
+> I want to lead people.
+
+Say...
+
+> I'd like to provide technical leadership and mentor other engineers.
+
+---
+
+Useful vocabulary
+
+- technical leadership
+- engineering excellence
+- architectural decisions
+- cross-functional collaboration
+- continuous improvement
+- long-term impact
+- mentorship
+- professional growth
+- technical ownership
+- business alignment
+
+---
+
+## Useful Expressions
+
+Practice these expressions.
+
+> Over the next five years...
+
+> One of my long-term goals is...
+
+> I'd like to continue developing...
+
+> What matters most to me is...
+
+> I see myself contributing by...
+
+> I'd like to broaden my impact...
+
+> I believe this role would allow me to...
+
+---
+
+## Possible Follow-up Questions
+
+Prepare for questions such as:
+
+**Why do you want to remain on the technical path instead of moving into management?**
+
+---
+
+**Do you see yourself becoming an Engineering Manager?**
+
+---
+
+**What skills do you still want to develop?**
+
+---
+
+**How do you plan to achieve those goals?**
+
+---
+
+**What kind of projects would you like to work on in the future?**
+
+---
+
+**How does this position fit into your long-term career plan?**
+
+---
+
+## Common Mistakes
+
+### ❌ Focusing only on promotions
+
+Titles don't demonstrate growth.
+
+Impact does.
+
+---
+
+### ❌ Talking only about technology
+
+Technology is important, but companies also value communication, leadership and business understanding.
+
+---
+
+### ❌ Giving unrealistic answers
+
+Avoid saying things like:
+
+> "I want to be the CTO."
+
+Unless you're interviewing for a startup and can explain that ambition realistically, it usually sounds disconnected from the role.
+
+---
+
+### ❌ Sounding indifferent
+
+Avoid answers such as:
+
+> "I haven't really thought about it."
+
+Interviewers expect senior professionals to have a sense of direction.
+
+---
+
+## Real Interview Tips
+
+One characteristic I've noticed in experienced engineers is that they rarely define success by their job title.
+
+Instead, they define success by their impact.
+
+Rather than saying:
+
+> "I want to become a Principal Engineer."
+
+They often say:
+
+> "I'd like to work on increasingly complex systems, help other engineers grow and contribute to better technical decisions."
+
+That shift in perspective communicates maturity.
+
+---
+
+## European Interview Perspective
+
+Many European companies value long-term commitment and sustainable career growth.
+
+Interviewers generally appreciate candidates who:
+
+- are motivated by learning,
+- enjoy collaboration,
+- seek continuous improvement,
+- and want to contribute to the organization over time.
+
+Ambition is viewed positively, but it is often expressed through **impact, expertise and collaboration**, rather than hierarchy or status.
+
+A balanced answer usually creates a stronger impression than one focused exclusively on promotions.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer this question in one minute without mentioning any job titles.
+
+Describe only the kind of engineer you want to become.
+
+---
+
+### Exercise 2
+
+Now answer again.
+
+This time connect your long-term goals with the position you're applying for.
+
+---
+
+### Exercise 3
+
+Complete the following sentence five different ways.
+
+> Over the next five years, I'd like to...
+
+Avoid repeating the same ideas.
+
+---
+
+### Exercise 4
+
+Imagine the interviewer asks:
+
+> "What if you don't achieve those goals within five years?"
+
+Prepare a natural response.
+
+---
+
+## Self-Evaluation Checklist
+
+After practicing, ask yourself:
+
+- [ ] Did I describe professional growth rather than promotions?
+- [ ] Did I mention business impact?
+- [ ] Did I include technical leadership?
+- [ ] Did I sound ambitious but realistic?
+- [ ] Did I connect my goals with the position?
+- [ ] Did I sound authentic?
+- [ ] Would my answer still make sense if I changed companies?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are an experienced Engineering Director interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"Where do you see yourself in five years?"**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Wait until I finish speaking.
+- Ask at least **six follow-up questions**.
+- Challenge me if my answer focuses only on promotions or technologies.
+- Ask me how this position fits into my long-term career goals.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Professional Maturity
+  - Career Vision
+  - Business Awareness
+- Tell me if my answer sounds realistic.
+- Suggest a more natural version.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer again using your feedback.
+
+---
+
+## Coaching Notes
+
+One of the biggest misconceptions about this question is believing that interviewers expect a precise career plan.
+
+They don't.
+
+What they want to hear is that your professional development has direction.
+
+Looking back at my own career, I've realized that the technologies I've used have changed many times.
+
+What has remained constant is my interest in solving meaningful business problems through data.
+
+That's why, when I think about the next five years, I don't focus on a specific title.
+
+I focus on increasing my impact.
+
+I want to continue designing reliable data platforms, contributing to better architectural decisions, mentoring other engineers and strengthening the connection between technology and business.
+
+If I achieve those goals, I believe the titles will come naturally.
+
+---
+
