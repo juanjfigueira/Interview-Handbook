@@ -4432,4 +4432,410 @@ I want to continue designing reliable data platforms, contributing to better arc
 If I achieve those goals, I believe the titles will come naturally.
 
 ---
+---
 
+## Q015 — Why Should We Hire You?
+
+**Category:** HR / Behavioral
+
+**Difficulty:** Medium
+
+**Expected Duration:** 60–90 seconds
+
+**Skills Evaluated**
+
+- Self-awareness
+- Communication
+- Business Awareness
+- Professional Positioning
+- Confidence
+- Value Proposition
+
+**Tags**
+
+- value-proposition
+- behavioral
+- senior
+- communication
+- business-value
+
+---
+
+## Why Interviewers Ask This
+
+This is one of the most direct questions in any interview.
+
+However, it is not an invitation to list your strengths.
+
+The interviewer has already reviewed your CV and technical experience.
+
+What they really want to understand is:
+
+- What makes you different from other candidates?
+- What unique value would you bring to our engineering team?
+- How do you see yourself contributing to our business?
+
+A strong answer focuses on the value you create rather than simply describing your skills.
+
+---
+
+## Interview Insight
+
+Many candidates answer this question by repeating their résumé.
+
+For example:
+
+> "I have ten years of experience."
+
+or
+
+> "I'm good at Python, Spark and SQL."
+
+The interviewer already knows that.
+
+Instead, explain **how those skills translate into business impact**.
+
+Senior engineers are hired not only because they know technologies, but because they consistently solve important business problems.
+
+---
+
+## What a Strong Answer Sounds Like
+
+A strong answer usually includes four ideas.
+
+### First
+
+Summarize your technical strengths.
+
+---
+
+### Second
+
+Explain how you approach solving problems.
+
+---
+
+### Third
+
+Describe the value you create for the business.
+
+---
+
+### Finally
+
+Connect your experience with the company's needs.
+
+Avoid sounding arrogant.
+
+Confidence is good.
+
+Humility is better.
+
+---
+
+## Model Answer
+
+> I believe you should hire me because I combine strong technical experience with a business-oriented mindset.
+>
+> Throughout my career, I've learned that technology only creates value when it helps solve real business problems.
+>
+> As a Data Engineer, I don't focus only on building reliable data pipelines or scalable platforms.
+>
+> I also try to understand how the data will be used and how it can help people make better decisions.
+>
+> One of my strengths is staying calm when facing complex challenges.
+>
+> I enjoy breaking difficult problems into smaller pieces, working collaboratively with other engineers and finding practical solutions that deliver value quickly without losing sight of long-term quality.
+>
+> I also believe communication is an important part of engineering.
+>
+> I enjoy working closely with business stakeholders because understanding their needs usually leads to better technical solutions.
+>
+> Finally, I genuinely enjoy learning.
+>
+> Every project I've worked on has taught me something new, and I believe that curiosity has been one of the key reasons I've been able to adapt to different industries, technologies and teams throughout my career.
+>
+> If I join your team, my goal won't simply be to write good code.
+>
+> My goal will be to help build data solutions that create measurable value for the business while contributing positively to the engineering culture.
+
+---
+
+## Why This Answer Works
+
+The answer does not claim to be "the best candidate."
+
+Instead, it explains the type of professional you are.
+
+It demonstrates:
+
+- confidence without arrogance,
+- technical competence,
+- business awareness,
+- collaboration,
+- continuous learning.
+
+Most importantly, it explains **how your work benefits the organization**.
+
+---
+
+## Alternative Answer
+
+> I don't believe companies hire engineers only because of the technologies they know.
+>
+> They hire people who solve problems, collaborate effectively and continue learning.
+>
+> I'd like to believe that's exactly what I've demonstrated throughout my career, and I'd be excited to bring that same mindset to your team.
+
+---
+
+## Better Vocabulary
+
+Instead of...
+
+> I'm good at solving problems.
+
+Say...
+
+> I enjoy tackling complex challenges and turning them into practical solutions.
+
+---
+
+Instead of...
+
+> I work well with others.
+
+Say...
+
+> I collaborate effectively across technical and business teams.
+
+---
+
+Instead of...
+
+> I adapt quickly.
+
+Say...
+
+> I'm comfortable learning new technologies and adapting to changing business needs.
+
+---
+
+Useful vocabulary
+
+- business impact
+- engineering mindset
+- practical solutions
+- technical ownership
+- continuous learning
+- collaboration
+- stakeholder communication
+- scalable platforms
+- measurable value
+- engineering culture
+
+---
+
+## Useful Expressions
+
+Practice these expressions.
+
+> One of the things I bring to a team is...
+
+> What differentiates me is...
+
+> Throughout my career, I've learned that...
+
+> One principle I always try to follow is...
+
+> My objective is not only to...
+
+> I believe my biggest contribution would be...
+
+---
+
+## Possible Follow-up Questions
+
+Prepare for questions such as:
+
+**What would your previous manager say about you?**
+
+---
+
+**What do you think is your greatest professional strength?**
+
+---
+
+**What type of projects allow you to perform at your best?**
+
+---
+
+**What do you think you still need to improve?**
+
+---
+
+**Why should we choose you over another candidate?**
+
+---
+
+**How would your teammates describe you?**
+
+---
+
+## Common Mistakes
+
+### ❌ Repeating your CV
+
+The interviewer has already read it.
+
+Use this opportunity to explain your value, not your history.
+
+---
+
+### ❌ Sounding arrogant
+
+Avoid saying:
+
+> "I'm the best candidate."
+
+Instead, explain what you consistently contribute to a team.
+
+---
+
+### ❌ Talking only about technical skills
+
+Companies hire engineers to solve business problems.
+
+Technology is the means, not the objective.
+
+---
+
+### ❌ Giving a generic answer
+
+Avoid statements that could apply to anyone.
+
+The interviewer should finish your answer with a clear understanding of what makes you unique.
+
+---
+
+## Real Interview Tips
+
+One of the strongest answers to this question usually begins with:
+
+> "I believe the value I bring is..."
+
+That immediately shifts the conversation from credentials to contribution.
+
+Senior candidates are remembered because they explain **their impact**, not because they list technologies.
+
+---
+
+## European Interview Perspective
+
+European companies generally value candidates who are collaborative, pragmatic and business-oriented.
+
+Rather than trying to "sell yourself," focus on explaining how your way of working helps teams succeed.
+
+Humility combined with confidence usually creates a stronger impression than overly aggressive self-promotion.
+
+---
+
+## Practice Exercises
+
+### Exercise 1
+
+Answer this question in one minute without mentioning specific technologies.
+
+Focus only on the value you create.
+
+---
+
+### Exercise 2
+
+Now answer again, but imagine you're speaking directly to the Engineering Director.
+
+What would you want them to remember after one minute?
+
+---
+
+### Exercise 3
+
+Complete the following sentence five different ways.
+
+> The biggest value I bring to a team is...
+
+---
+
+### Exercise 4
+
+After answering, ask yourself:
+
+"Did I explain what I do, or did I explain why it matters?"
+
+---
+
+## Self-Evaluation Checklist
+
+- [ ] Did I explain my value instead of repeating my CV?
+- [ ] Did I connect technology with business impact?
+- [ ] Did I sound confident without sounding arrogant?
+- [ ] Did I mention collaboration?
+- [ ] Did I explain how I contribute to a team?
+- [ ] Would my answer be memorable?
+
+---
+
+## Coach Prompt
+
+Use the following prompt with your local Interview Coach.
+
+---
+
+You are an Engineering Director interviewing me for a Senior Data Engineer position.
+
+Ask me the following question:
+
+**"Why should we hire you?"**
+
+Rules:
+
+- Do NOT show me the model answer.
+- Wait until I finish speaking.
+- Ask at least **six follow-up questions**.
+- Challenge me if I simply repeat my CV.
+- Ask me to explain what unique value I bring to an engineering team.
+- Evaluate:
+  - Fluency
+  - Grammar
+  - Vocabulary
+  - Confidence
+  - Business Awareness
+  - Professional Positioning
+- Tell me whether my answer sounds memorable.
+- Suggest a more natural version.
+- Give me a score from **1 to 10**.
+- Finally, ask me to answer the question again using your feedback.
+
+---
+
+## Coaching Notes
+
+This question is your opportunity to leave the interviewer with a lasting impression.
+
+Don't think of it as a summary of your experience.
+
+Think of it as your professional value proposition.
+
+Throughout this handbook, a consistent pattern has emerged.
+
+The strongest engineers are not remembered because they know more technologies.
+
+They are remembered because they solve meaningful problems, communicate effectively and help businesses make better decisions through data.
+
+That is the message this answer should reinforce.
+
+When interviewers remember you after the interview, they shouldn't remember a list of tools.
+
+They should remember the kind of engineer you are.
+
+---
